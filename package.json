@@ -5,6 +5,10 @@
   "main": "build/index.js",
   "type": "module",
   "types": "build/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anushka200310/devwit_quotes.git"
+  },
   "files": [
     "build",
     "README.md"
