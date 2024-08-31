@@ -1,0 +1,29 @@
+{
+  "name": "devwit_quotes",
+  "version": "1.0.0",
+  "description": "elevate your coding environment with the wit and wisdom of the devwit",
+  "main": "build/index.js",
+  "type": "module",
+  "types": "build/index.d.ts",
+  "files": [
+    "build",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rm -rf build && tsc"
+  },
+  "keywords": [
+    "dev_quotes",
+    "node js",
+    "Nextjs",
+    "Reactjs",
+    "TypeScript",
+    "express js"
+  ],
+  "author": "Anushka Banerjee",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "typescript": "^5.5.4"
+  }
+}
